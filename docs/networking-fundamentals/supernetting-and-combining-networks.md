@@ -4,7 +4,7 @@
 
 ### **Table of Contents**
 
-1. [Introduction to Supernetting](#introduction-to-supernetting)  
+1. [Introduction to Supernetting](#-1-introduction-to-supernetting)  
 2. [Key Concepts in Supernetting](#key-concepts-in-supernetting)  
 3. [How Supernetting Works](#how-supernetting-works)  
 4. [Scenario 1: Combining Four Networks](#scenario-1-combining-four-networks)  
