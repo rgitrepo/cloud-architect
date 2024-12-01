@@ -4,7 +4,7 @@
 <details>
 <summary>Networking Fundamentals</summary>
 
-- [IP Addresses](docs/networking-fundamentals/ip-addresses.md)
+- [Basic IP Addressing and Subnetting](docs/networking-fundamentals/basic-ip-addressing-and-subnetting.md)
 - [Supernetting and Combining Networks](docs/networking-fundamentals/supernetting-and-combining-networks.md)
 
 
