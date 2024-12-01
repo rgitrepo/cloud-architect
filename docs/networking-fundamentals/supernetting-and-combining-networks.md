@@ -11,7 +11,7 @@
 5. [Scenario 2: Combining Non-Contiguous Networks](#5-scenario-2-combining-non-contiguous-networks)  
 6. [Scenario 3: Combining Networks with More than Four Blocks](#6-scenario-3-combining-networks-with-more-than-four-blocks)  
 7. [Common Issues in Supernetting](#7-common-issues-in-supernetting)  
-8. [Conclusion](#conclusion)  
+8. [Conclusion](#8-conclusion)  
 
 [Back to Top](#table-of-contents)
 
