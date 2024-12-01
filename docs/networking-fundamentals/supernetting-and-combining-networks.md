@@ -4,10 +4,10 @@
 
 ### **Table of Contents**
 
-1. [Introduction to Supernetting](#-1-introduction-to-supernetting)  
-2. [Key Concepts in Supernetting](#key-concepts-in-supernetting)  
-3. [How Supernetting Works](#how-supernetting-works)  
-4. [Scenario 1: Combining Four Networks](#scenario-1-combining-four-networks)  
+1. [Introduction to Supernetting](#1-introduction-to-supernetting)  
+2. [Key Concepts in Supernetting](#2-key-concepts-in-supernetting)  
+3. [How Supernetting Works](#3-how-supernetting-works)  
+4. [Scenario 1: Combining Four Networks](#4-scenario-1-combining-four-networks)  
 5. [Scenario 2: Combining Non-Contiguous Networks](#scenario-2-combining-non-contiguous-networks)  
 6. [Scenario 3: Combining Networks with More than Four Blocks](#scenario-3-combining-networks-with-more-than-four-blocks)  
 7. [Common Issues in Supernetting](#common-issues-in-supernetting)  
