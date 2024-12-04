@@ -17,7 +17,7 @@
 ## **1. Introduction to Load Balancers**
 A **load balancer (LB)** is a critical network device or service used to distribute incoming traffic across multiple servers, firewalls, or network appliances to ensure availability, scalability, and performance. By mitigating single points of failure, LBs are vital in cloud and on-premises infrastructures.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -35,6 +35,8 @@ A **load balancer (LB)** is a critical network device or service used to distrib
   - Lightweight workloads like Kubernetes Pods or smaller servers.
   - Applications needing advanced routing (e.g., based on request path or headers).
 
+[Back to Table of Contents](#table-of-contents)
+
 ### **2.2 Network Load Balancer (NLB)**
 - **Purpose**: NLBs operate at the **transport layer (Layer 4)** and are optimized for speed and efficiency by routing traffic based on network protocols like TCP or UDP.
 - **Advantages**:
@@ -46,7 +48,7 @@ A **load balancer (LB)** is a critical network device or service used to distrib
   - Heavy-duty servers requiring high-speed traffic redirection.
   - Network appliances like enterprise-grade firewalls.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -59,7 +61,7 @@ Load balancers solve several key challenges:
 > **Key Question**: *What’s the device that removes single points of failure and improves performance and availability?*  
 > **Answer**: Load Balancers.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -72,18 +74,19 @@ For enterprise-grade firewalls (e.g., Cisco, Fortinet, Juniper, Palo Alto), depl
 - **Inbound**: Internet -> Load Balancer -> Firewalls -> Internal Network.
 - **Outbound**: Internal Network -> Firewalls -> Load Balancer -> Internet.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
 ## **5. Understanding NAT Overload and Network Address Translation (NAT)**
+
 ### **What is NAT?**
 **Network Address Translation (NAT)** allows private IPs in an internal network to communicate with external networks (like the internet) by translating private IP addresses into a single public IP.
 
 ### **What is NAT Overload?**
 **NAT Overload**, also known as **one-to-many NAT**, allows multiple devices to share a single public IP by differentiating traffic using unique port numbers. This conserves public IPs and is crucial for large-scale deployments.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -93,7 +96,7 @@ To avoid single points of failure in firewalls:
 2. Use a **Network Load Balancer** to distribute traffic across these instances.
 3. Configure health checks in the LB to detect and redirect traffic away from failed instances.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -104,7 +107,7 @@ For custom high-performance LBs like **F5 BIG-IP**, deploy them as virtual appli
 
 > **Challenge**: If a VM hosting the LB fails, traffic stops unless redundancy is built in.
 
-[Back to TOC](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -118,5 +121,5 @@ Choosing between an **Application Load Balancer** and a **Network Load Balancer*
 - **ALB**: Suitable for intelligent routing and application-level decision-making.
 - **NLB**: Ideal for high-speed routing of network traffic or when managing network appliances like firewalls.
 
-[Back to TOC](#table-of-contents)  
+[Back to Table of Contents](#table-of-contents)  
 
