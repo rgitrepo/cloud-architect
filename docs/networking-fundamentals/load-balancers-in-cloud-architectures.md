@@ -1,16 +1,16 @@
 # **Comprehensive Tutorial on Load Balancers in Cloud Architectures**
 
 ### **Table of Contents**
-1. [Introduction to Load Balancers](#introduction-to-load-balancers)  
-2. [Types of Load Balancers](#types-of-load-balancers)  
-   - [Application Load Balancer (ALB)](#application-load-balancer-alb)  
-   - [Network Load Balancer (NLB)](#network-load-balancer-nlb)  
-3. [Why Use Load Balancers?](#why-use-load-balancers)  
-4. [Load Balancing Firewalls and Network Appliances](#load-balancing-firewalls-and-network-appliances)  
-5. [Understanding NAT Overload and Network Address Translation (NAT)](#understanding-nat-overload-and-network-address-translation-nat)  
-6. [Deploying a Load Balancer for Enterprise-Grade Firewalls](#deploying-a-load-balancer-for-enterprise-grade-firewalls)  
-7. [Configuring a Heavy-Duty Load Balancer in the Cloud](#configuring-a-heavy-duty-load-balancer-in-the-cloud)  
-8. [Conclusion](#conclusion)
+1. [Introduction to Load Balancers](#1-introduction-to-load-balancers)  
+2. [Types of Load Balancers](#2-types-of-load-balancers)  
+   - [Application Load Balancer (ALB)](#21-application-load-balancer-alb)  
+   - [Network Load Balancer (NLB)](#22-network-load-balancer-nlb)  
+3. [Why Use Load Balancers?](#3-why-use-load-balancers)  
+4. [Load Balancing Firewalls and Network Appliances](#4-load-balancing-firewalls-and-network-appliances)  
+5. [Understanding NAT Overload and Network Address Translation (NAT)](#5-understanding-nat-overload-and-network-address-translation-nat)  
+6. [Deploying a Load Balancer for Enterprise-Grade Firewalls](#6-deploying-a-load-balancer-for-enterprise-grade-firewalls)  
+7. [Configuring a Heavy-Duty Load Balancer in the Cloud](#7-configuring-a-heavy-duty-load-balancer-in-the-cloud)  
+8. [Conclusion](#8-conclusion)
 
 ---
 
