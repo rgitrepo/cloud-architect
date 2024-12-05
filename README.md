@@ -10,5 +10,6 @@
 - [Raid: Redundant Array of Independent Disks](docs/networking-fundamentals/raid.md)
 - [BGP and Its Relationship with TCP](docs/networking-fundamentals/bgp-and-its-relation-with-tcp.md)
 - [BGP Messages: OPEN, KEEPALIVE, UPDATE, NOTIFICATION](docs/networking-fundamentals/bgp-messages.md)
+- [BGP Messages & State Transitions](docs/networking-fundamentals/bgp-messages-and-state-transitions.md)
 
 
