@@ -8,5 +8,6 @@
 - [Supernetting and Combining Networks](docs/networking-fundamentals/supernetting-and-combining-networks.md)
 - [Load Balancers in Cloud Architectures](docs/networking-fundamentals/load-balancers-in-cloud-architectures.md)
 - [Raid](docs/networking-fundamentals/raid.md)
+- [Raid](docs/networking-fundamentals/bgp-and-its-relation-with-tcp.md)
 
 
