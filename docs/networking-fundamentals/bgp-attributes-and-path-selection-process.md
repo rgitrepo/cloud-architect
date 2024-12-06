@@ -163,7 +163,14 @@ When multiple paths to the same destination exist, BGP uses the following decisi
    show ip bgp <prefix>
    ```
 3. Debug BGP path selection:
-   ```bash
+   ```bash![Uploading 0.0.jpg…]()
+
    debug ip bgp
    ```
+
+![11 Cluster List Shortest - Only if Reflectors Used](https://github.com/user-attachments/assets/03f2ab66-a227-473f-ba08-31b85ffd4e2e)
+
+
+
+![0 1](https://github.com/user-attachments/assets/ca8af150-bf11-4374-a153-2e0f01b03972)
 
