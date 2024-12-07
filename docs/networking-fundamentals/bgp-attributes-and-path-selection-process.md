@@ -172,5 +172,6 @@ When multiple paths to the same destination exist, BGP uses the following decisi
 
 ![0 0](https://github.com/user-attachments/assets/cecc083d-4149-4713-9756-480a3ca0ea82)
 
-![0 1](https://github.com/user-attachments/assets/ca8af150-bf11-4374-a153-2e0f01b03972)
+
+![image](https://github.com/user-attachments/assets/5fada295-cad7-43a8-8154-9c23eaad0a87)
 
