@@ -69,7 +69,7 @@ When multiple paths to the same destination exist, BGP uses the following decisi
    - If no locally originated route exists, prefer the path with the shortest AS path.
 
 6. **Lowest Origin Code**:
-   - If AS paths are equal, prefer the path with the lowest origin type (IGP > EGP > Incomplete).
+   - If AS paths are equal, prefer the path with the lowest origin type (IGP=0 > EGP=1 > Incomplete=2).
 
 7. **Lowest MED**:
    - If origin codes are equal, prefer the path with the lowest MED (indicates the preferred exit from the AS).
