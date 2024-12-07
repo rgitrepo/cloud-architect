@@ -12,5 +12,6 @@
 - [BGP Messages: OPEN, KEEPALIVE, UPDATE, NOTIFICATION](docs/networking-fundamentals/bgp-messages.md)
 - [BGP Messages and State Transitions: Idle, Connect, Active, OpenSent, OpenConfirm, Established](docs/networking-fundamentals/bgp-messages-and-state-transitions.md)
 - [BGP Attributes and Path Selection Process](docs/networking-fundamentals/bgp-attributes-and-path-selection-process.md)
+- [BGP Prefix vs Path Level Filtering](docs/networking-fundamentals/bgp-prefix-vs-path-level-filtering.md)
 
 
