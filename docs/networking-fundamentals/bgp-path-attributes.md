@@ -13,15 +13,6 @@ BGP determines the `NEXT_HOP` value differently depending on the type of connect
 
 ---
 
-
-
-Here’s the revised table with better spacing, added details to clarify the distinction between internal and external routers, and expanded examples to make the explanations clearer and more visually readable.
-
----
-Here is the updated table with **multiple practical examples** for each subpoint (1.1, 1.2, etc.) to provide a clearer understanding of how `NEXT_HOP` works in various scenarios:
-
----
-
 | **No.** | **Original Text** | **Explanation with Multiple Practical Examples** |
 |---------|--------------------|--------------------------------------------------|
 | **1**   | When sending a message to an internal peer, if the route is not locally originated, the BGP speaker SHOULD NOT modify the NEXT_HOP attribute unless it has been explicitly configured to announce its own IP address as the NEXT_HOP. | **1. Internal Peer (Within the Same Network)** <br> - **Scenario**: When a router sends a route update to another router within the same organization or network. <br> **Rules**: <br> **1.1.** If the route is not **locally originated**: <br> - Do **not** change the `NEXT_HOP` unless explicitly configured to do so. <br> **Practical Examples**: <br> **Example 1:** Router A learns about a route `192.168.1.0/24` from Router B (internal) with `NEXT_HOP = 172.16.0.1`. Router A advertises this route to Router C (internal). The `NEXT_HOP` remains `172.16.0.1` unless Router A is explicitly configured to override it. <br> **Example 2:** Router A is configured to keep the `NEXT_HOP` of incoming routes unchanged. If Router B advertises `10.0.0.0/8` with `NEXT_HOP = 172.20.0.1`, Router A passes the same `NEXT_HOP` to Router C when sending this route. <br> **Example 3:** If Router A learns the route from an internal Router B and advertises it to Router C without modifying the `NEXT_HOP`, Router C knows that it needs to use Router B as the next hop to reach the destination. |
