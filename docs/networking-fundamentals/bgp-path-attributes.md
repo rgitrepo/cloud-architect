@@ -1,3 +1,21 @@
+To make this information easier to understand and eventually make the original text meaningful, I’ll break it down step by step with examples. I’ll also explain each step in simple terms.
+
+---
+
+### **What is NEXT_HOP?**
+1. **Definition**: The `NEXT_HOP` attribute in BGP (Border Gateway Protocol) tells the router which IP address should be used as the next stop to forward packets to the destination.
+
+2. **Purpose**: It ensures that routers know the next step in the journey of a packet through the network.
+
+3. **Key Rule**: This is a **mandatory attribute** that must always be set.
+
+---
+
+### **How is NEXT_HOP Determined?**
+BGP determines the `NEXT_HOP` value differently depending on the type of connection (internal vs. external peers) and how far the destination is.
+
+---
+
 
 
 | **No.** | **Original Text** | **Explanation with Examples (Provided by You)** |
