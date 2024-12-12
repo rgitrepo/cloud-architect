@@ -14,5 +14,5 @@
 - [BGP Path Attributes: ORIGIN, AS_PATH, NEXT_HOP, MULTI_EXIT_DISC, LOCAL_PREF, ATOMIC_AGGREGATE, AGGREGATOR](docs/networking-fundamentals/bgp-path-attributes.md)
 - [BGP Path Selection Algorithm](docs/networking-fundamentals/bgp-path-selection-algorithm.md)
 - [BGP Prefix vs Path Level Filtering](docs/networking-fundamentals/bgp-prefix-vs-path-level-filtering.md)
-- [Three Tier Web App - Databases + Read Replicass, Cache, Kafka](docs/three-tier-web-app-read-replicas-cache-kafka.md)
+- [Three Tier Web App - Databases + Read Replicass, Cache, Kafka](docs/networking-fundamentals/three-tier-web-app-read-replicas-cache-kafka.md)
 
