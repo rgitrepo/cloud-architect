@@ -15,4 +15,5 @@
 - [BGP Path Selection Algorithm](docs/networking-fundamentals/bgp-path-selection-algorithm.md)
 - [BGP Prefix vs Path Level Filtering](docs/networking-fundamentals/bgp-prefix-vs-path-level-filtering.md)
 - [Three Tier Web App - Databases + Read Replicass, Cache, Kafka](docs/networking-fundamentals/three-tier-web-app-read-replicas-cache-kafka.md)
+- [Why is it Hard to Replicate Structured Databases](docs/networking-fundamentals/why-is-it-hard-to-replicate-structured-databases.md)
 
