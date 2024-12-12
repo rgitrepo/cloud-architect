@@ -1,4 +1,4 @@
-
+## Why is it Hard to Replicate Structured Databases
 
 ### 1. **Consistency Challenges**
 - **ACID Compliance**: SQL databases often rely on strict ACID (Atomicity, Consistency, Isolation, Durability) guarantees for transactions. Maintaining these guarantees across multiple replicated databases in real time is difficult, especially in write-heavy systems.
