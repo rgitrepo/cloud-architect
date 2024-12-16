@@ -1,4 +1,110 @@
-The Six R's of Cloud MigrationThis is a companion document to Six R's of Cloud Migration Video in the Intro to Technology Course. By reading this document and reviewing the video lesson, you will have an understanding of the topic covered. Do not rely on only the document or only the video lesson, please use both pieces of content in your learning.Cloud migration is the process of moving an organization's applications, data, and services from their traditional on-premises data centers to the cloud. Cloud migrations offer numerous benefits, including increased business agility, cost reduction, and the promotion of digital transformation. However, migrating to the cloud requires careful planning and consideration of various migration strategies. In this article, we will explore the six R's of cloud migration, each representing a distinct approach that organizations can take to transition their IT infrastructure to the cloud.Rehosting (Lift and Shift):Rehosting, also known as "lift and shift,", is the most common cloud migration strategy. In rehosting, organizations simply move their existing systems, applications, and data from their on-premises infrastructure to the cloud without making any significant changes. It is a straightforward and quick method of migrating to the cloud, as it involves replicating the current setup in the cloud environment. Rehosting is ideal for organizations seeking a fast and cost-effective migration with minimal disruption. However, it may not take full advantage of cloud-native features and capabilities.
-© Go Cloud Architects, LLC dba Go Cloud CareersReplatforming (Lift, Tinker, and Optimize):Replatforming is similar to rehosting, but with some additional optimization for the cloud environment. In this approach, organizations make slight modifications to their applications to take advantage of certain cloud-specific enhancements. For example, they might refactor certain components of the application to leverage cloud-native services. Replatforming strikes a balance between speed and cloud optimization, providing some of the benefits of the cloud without requiring a complete application overhaul.Repurchasing (Software as a Service - SaaS):Repurchasing involves migrating to cloud-native software-as-a-service (SaaS) applications. Instead of hosting and managing software applications on-premises, organizations subscribe to SaaS solutions offered by cloud providers. Examples of repurchasing include moving from on-premises email servers to cloud-based email services like Microsoft 365 or Google Workspace. Repurchasing simplifies application management and maintenance, as the responsibility shifts to the cloud service provider.Refactoring (Optimizing for the Cloud):Refactoring, also known as "re-architecting," involves rebuilding applications from scratch to fully leverage cloud-native features. It is the most transformational but also the most expensive migration strategy. By refactoring applications, organizations can take full advantage of serverless computing, microservices architecture, and other cloud-native services. Refactoring often requires significant changes to application code and architecture but can result in long-term benefits in terms of scalability, cost efficiency, and improved performance.
-© Go Cloud Architects, LLC dba Go Cloud CareersRetiring (Shutting Down Unnecessary Systems):Retiring is a straightforward strategy that involves shutting down systems, applications, or services that are no longer in use or required in the cloud environment. It streamlines the migration process by eliminating unnecessary resources and reducing costs associated with maintaining outdated infrastructure.Retaining (Staying On-Premises):Retaining is a strategy where organizations decide not to migrate certain applications or systems to the cloud. It may be due to various factors such as complex dependencies, performance requirements, or regulatory compliance. Organizations might choose to retain their on-premises infrastructure until they are ready for a more suitable migration approach.Conclusion:Cloud migration is a crucial step in modernizing IT infrastructure and unlocking the full potential of cloud computing. Each cloud migration strategy offers distinct advantages and considerations, and the choice of approach depends on the organization's specific needs, resources, and goals. Rehosting and replatforming are ideal for quick and straightforward migrations, while repurchasing and refactoring offer opportunities for cloud optimization and transformation. Retiring and retaining strategies provide flexibility in managing legacy systems and making strategic decisions for the future.
-© Go Cloud Architects, LLC dba Go Cloud CareersWhen planning a cloud migration, organizations should carefully assess their existing infrastructure, business requirements, and desired outcomes to determine the most suitable strategy. With the right approach, cloud migration can lead to improved efficiency, scalability, and innovation, enabling organizations to thrive in the digital era.
+### The Six R's of Cloud Migration
+
+This document is a companion to the *Six R's of Cloud Migration* video in the Intro to Technology Course. By reading this document and reviewing the video lesson, you will gain a comprehensive understanding of cloud migration strategies. For effective learning, it is recommended to use both the document and the video together.
+
+---
+
+### Introduction to Cloud Migration
+
+Cloud migration is the process of moving an organization's applications, data, and services from traditional on-premises data centers to the cloud. It offers several benefits, including:
+
+- Increased business agility
+- Cost reduction
+- Promotion of digital transformation
+
+However, migrating to the cloud requires careful planning and consideration of various strategies. In this document, we will explore the six R's of cloud migration, each representing a unique approach for transitioning IT infrastructure to the cloud.
+
+---
+
+### 1. **Rehosting (Lift and Shift)**
+
+Rehosting, commonly referred to as "lift and shift," is the most straightforward cloud migration strategy. Organizations move their existing systems, applications, and data from on-premises infrastructure to the cloud with minimal or no changes. 
+
+- **Advantages**: 
+  - Quick and cost-effective
+  - Minimal disruption to operations
+- **Limitations**: 
+  - Does not fully utilize cloud-native features and capabilities
+
+---
+
+### 2. **Replatforming (Lift, Tinker, and Optimize)**
+
+Replatforming involves slight modifications to applications to optimize them for the cloud environment while maintaining their core architecture.
+
+- **Key Features**:
+  - Incorporates cloud-specific enhancements
+  - Refactors certain components to leverage cloud-native services
+- **Advantages**:
+  - Balances speed and optimization
+  - Provides partial benefits of cloud without complete application overhaul
+
+---
+
+### 3. **Repurchasing (Software as a Service - SaaS)**
+
+Repurchasing shifts to cloud-native software-as-a-service (SaaS) solutions instead of managing on-premises applications.
+
+- **Examples**:
+  - Transitioning from on-premises email servers to services like Microsoft 365 or Google Workspace
+- **Advantages**:
+  - Simplifies application management
+  - Shifts responsibility to the cloud service provider
+
+---
+
+### 4. **Refactoring (Optimizing for the Cloud)**
+
+Refactoring, also known as "re-architecting," involves rebuilding applications to fully utilize cloud-native features and capabilities.
+
+- **Key Features**:
+  - Incorporates serverless computing, microservices architecture, and other cloud-native services
+- **Advantages**:
+  - Improved scalability, performance, and cost efficiency
+- **Challenges**:
+  - Requires significant changes to application code and architecture
+  - Most expensive and time-intensive approach
+
+---
+
+### 5. **Retiring (Shutting Down Unnecessary Systems)**
+
+Retiring involves decommissioning systems, applications, or services that are no longer needed in the cloud environment.
+
+- **Advantages**:
+  - Streamlines migration by reducing unnecessary resources
+  - Lowers costs by eliminating outdated infrastructure
+
+---
+
+### 6. **Retaining (Staying On-Premises)**
+
+Retaining involves keeping certain applications or systems on-premises due to:
+
+- Complex dependencies
+- Performance requirements
+- Regulatory compliance
+
+This strategy allows organizations to delay migration until a more suitable approach becomes viable.
+
+---
+
+### Conclusion
+
+Cloud migration is a pivotal step in modernizing IT infrastructure and unlocking the benefits of cloud computing. Each of the six R's offers distinct advantages and considerations, and the choice of strategy depends on:
+
+- The organization's needs
+- Available resources
+- Long-term goals
+
+| **Strategy**     | **Purpose**                           | **Best For**                          |
+|-------------------|---------------------------------------|----------------------------------------|
+| Rehosting         | Quick migration with minimal changes | Cost-effective, low-disruption needs  |
+| Replatforming     | Minor optimization for the cloud     | Balance of speed and optimization     |
+| Repurchasing      | Transition to SaaS solutions         | Simplified application management     |
+| Refactoring       | Full cloud-native optimization       | Scalability, cost efficiency, innovation |
+| Retiring          | Remove outdated systems              | Streamlining and cost reduction       |
+| Retaining         | Stay on-premises for now             | Complex dependencies or compliance    |
+
+When planning a cloud migration, organizations should assess their existing infrastructure, business requirements, and desired outcomes. With the right approach, cloud migration can enhance efficiency, scalability, and innovation, enabling success in the digital era.
+
