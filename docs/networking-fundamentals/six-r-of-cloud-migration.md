@@ -108,3 +108,25 @@ Cloud migration is a pivotal step in modernizing IT infrastructure and unlocking
 
 When planning a cloud migration, organizations should assess their existing infrastructure, business requirements, and desired outcomes. With the right approach, cloud migration can enhance efficiency, scalability, and innovation, enabling success in the digital era.
 
+
+---
+
+1. **Rehost**: **Tent**  
+   - A temporary, portable home that mirrors lifting and shifting workloads to a new environment with minimal change.
+
+2. **Replatform**: **Stage**  
+   - Represents a platform that supports a slightly adapted setup, fitting for minor upgrades during migration.
+
+3. **Refactor**: **Workshop**  
+   - Suggests a place for rebuilding or fine-tuning, aligning with overhauling applications for optimization.
+
+4. **Repurchase**: **Shopping Bag**  
+   - A clear visual for buying something new, like replacing software with ready-made solutions.
+
+5. **Retire**: **Gravestone**  
+   - Symbolizes the phasing out or decommissioning of outdated systems, straightforward and evocative.
+
+6. **Retain**: **Vault**  
+   - A secure and preserved space for items that stay in their original environment.
+
+Would you like further refinements or examples for a specific "R"?
