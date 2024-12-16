@@ -21,5 +21,5 @@
 - [Anycast](docs/networking-fundamentals/anycast.md)
 - [Block Storage vs. File Storage vs. Object Storage: A Comparison](docs/networking-fundamentals/block-file-object-storage.md)
 - [The Six R's of Cloud Migration](docs/networking-fundamentals/six-r-of-cloud-migration.md)
-- [NAT, NAT Overload (PAT)](docs/networking-fundamentals/nat-overload-pat.md)
+- [NAT, PAT, and NAT Gateway](docs/networking-fundamentals/nat-pat-and-nat-gateway.md)
 - [VNP Concentrator](docs/networking-fundamentals/vpn-concentrator.md)
