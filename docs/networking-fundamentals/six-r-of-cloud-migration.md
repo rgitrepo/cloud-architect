@@ -111,22 +111,13 @@ When planning a cloud migration, organizations should assess their existing infr
 
 ---
 
+![0](https://github.com/user-attachments/assets/f0c3d40b-7f13-41f1-a96a-f39994eac4a2)
+
+
 1. **Rehost**: **Tent**  
-   - A temporary, portable home that mirrors lifting and shifting workloads to a new environment with minimal change.
-
-2. **Replatform**: **Stage**  
-   - Represents a platform that supports a slightly adapted setup, fitting for minor upgrades during migration.
-
-3. **Refactor**: **Workshop**  
-   - Suggests a place for rebuilding or fine-tuning, aligning with overhauling applications for optimization.
-
+2. **Replatform**: **Platform - stage**  
+3. **Refactor**: **Factory**  
 4. **Repurchase**: **Shopping Bag**  
-   - A clear visual for buying something new, like replacing software with ready-made solutions.
+5. **Retire**: **Tire**  
+6. **Retain**: **Retainer**  
 
-5. **Retire**: **Gravestone**  
-   - Symbolizes the phasing out or decommissioning of outdated systems, straightforward and evocative.
-
-6. **Retain**: **Vault**  
-   - A secure and preserved space for items that stay in their original environment.
-
-Would you like further refinements or examples for a specific "R"?
