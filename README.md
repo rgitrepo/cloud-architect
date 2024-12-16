@@ -20,4 +20,4 @@
 - [Security: IDS/IPS, FW, HDF, Cache, DDoS, CDN, IAM](docs/networking-fundamentals/security.md)
 - [Anycast](docs/networking-fundamentals/anycast.md)
 - [Block Storage vs. File Storage vs. Object Storage: A Comparison](docs/networking-fundamentals/block-file-object-storage.md)
-
+- [The Six R's of Cloud Migration](docs/networking-fundamentals/six-r-of-cloud-migration.md)
