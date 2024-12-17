@@ -23,3 +23,4 @@
 - [The Six R's of Cloud Migration](docs/networking-fundamentals/six-r-of-cloud-migration.md)
 - [NAT, PAT, and NAT Gateway](docs/networking-fundamentals/nat-pat-and-nat-gateway.md)
 - [VNP Concentrator](docs/networking-fundamentals/vpn-concentrator.md)
+- [Application for a Business](docs/networking-fundamentals/application-for-a-business.md)
