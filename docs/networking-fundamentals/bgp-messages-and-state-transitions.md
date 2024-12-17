@@ -194,4 +194,4 @@ Each state has specific actions and transitions based on success, failure, or ti
 
 ---
 
-This structured explanation should help you understand how BGP forms neighbor relationships through its finite state machine, along with examples and troubleshooting tips to configure and maintain a stable BGP connection.
+Mark Milovanovic: To help you remember: Idle, Connect, and Active happen during the **TCP handshake**. Then OpenSent, OpenConfirm, and Established are part of BGP session establishment.
